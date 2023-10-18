@@ -1,2 +1,2 @@
-# discod_bot_01
+# discord_bot_01
 test
